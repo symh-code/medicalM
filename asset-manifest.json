@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/medicalM/static/css/main.79d19d76.css",
+    "main.js": "/medicalM/static/js/main.c2b16ef2.js",
+    "static/js/453.2291acef.chunk.js": "/medicalM/static/js/453.2291acef.chunk.js",
+    "index.html": "/medicalM/index.html",
+    "main.79d19d76.css.map": "/medicalM/static/css/main.79d19d76.css.map",
+    "main.c2b16ef2.js.map": "/medicalM/static/js/main.c2b16ef2.js.map",
+    "453.2291acef.chunk.js.map": "/medicalM/static/js/453.2291acef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79d19d76.css",
+    "static/js/main.c2b16ef2.js"
+  ]
+}
